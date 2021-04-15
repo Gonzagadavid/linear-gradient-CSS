@@ -2,7 +2,7 @@
 
 
 
-## Sempre gostei de usar linear gradient nos meus projetos e aplicações, fiz esse projeto pessoal com o objetivo de me auxiliar na ecolha das cores.
+## Sempre gostei de usar linear gradient nos meus projetos e aplicações, fiz esse projeto pessoal com o objetivo de me auxiliar na escolha das cores.
 
 
 
