@@ -29,7 +29,7 @@
 6. clique no botão 'copy'
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-6.png?raw=true">
 
-7. agora é só colar em seu CSS, **obsevando que o linear-gradient não funciona em background-color**(é importante colocar como na imagem abaixo)
+7. agora é só colar em seu CSS, **obsevando que o linear-gradient não funciona em background-color**(é importante usar como na imagem abaixo)
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-7.png?raw=true">
 
 ## Se você usou e gostou, por favor não se esqueça de deixar uma :star: de motivação, obrigado!!! 
