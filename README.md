@@ -22,6 +22,7 @@
 
 4. escolha a segunda cor
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-4.png?raw=true">
+
 5. escolha o anglo, podendo usar os botões de 15 em 15 ou alterar diretamente no display;
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-5.png?raw=true">
 
