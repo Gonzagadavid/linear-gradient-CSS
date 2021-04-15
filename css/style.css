@@ -1,0 +1,68 @@
+body {
+  margin: 0%;
+}
+#background{
+  width: 100vw;
+  height: 100vh;
+}
+
+#paleta {
+  background: rgb(00,00,00);
+  color: rgb(250,250,250);
+  width: 80%;
+  margin: auto;
+  height: 40px;
+  padding: 10px;
+  opacity: 70%;
+  text-align: center;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#paleta label {
+  padding-left: 10px;
+}
+
+#paleta button, input {
+  background-color: rgb(00,00,00);
+  color: rgb(250,250,250);
+  outline-style: none;
+  border: none;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#deg{
+  text-align: center;
+  width: 50px;
+}
+
+#code {
+  width: 500px;
+  text-align: center;
+  letter-spacing: 0.2mm;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.box {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 350px;
+  height: 200px;
+  background-color: rgb(00,00,00);
+  opacity: 70%;
+  color:rgb(250,250,250) ;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  animation-delay: .5s;
+  animation-duration: 1s;
+}

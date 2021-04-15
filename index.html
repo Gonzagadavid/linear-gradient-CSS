@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Linear Gradient</title>
+</head>
+<body>
+  <div id="background">
+    <div id="paleta">
+      <label for="color1">Color 1:</label>
+      <input type="color" id="color1">
+      <label for="color2">Color 2:</label>
+      <input type="color" id="color2">
+      <label for="deg">Deg:</label>
+      <input type="number" max="180" min="0" id="deg">
+      <button id="add">+15</button>
+      <button id="less">-15</button>
+      <label for="code">Code:</label>
+      <input type="text" readonly id="code">
+      <button id="copy">Copy</button>
+    </div>
+    <div class="message" id="message">
+      <div class="box" id="box">
+      <h2>Copied</h2>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./js/script.js"></script>
+</body>
+</html>
