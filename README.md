@@ -18,7 +18,15 @@
 1. Clone o repositorio em sua máquina :octocat: :octocat:
 2. A abra o arquivo index.html no browser
 3. escolha a primeira cor
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-3.png?raw=true">
+
 4. escolha a segunda cor
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-4.png?raw=true">
 5. escolha o anglo, podendo usar os botões de 15 em 15 ou alterar diretamente no display;
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-5.png?raw=true">
+
 6. clique no botão 'copy'
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-6.png?raw=true">
+
 7. agora é só colar em seu CSS
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-7.png?raw=true">
