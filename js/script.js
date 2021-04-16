@@ -32,7 +32,7 @@ function copyCode () {
 
 // aumenta ou diminui 15 graus no anglo de acordo com o botão
 function updateDeg (btn, str) {
-  angle = str === '+' ? angle + 15 : angle - 15
+  angle = str === '+' ? +angle + 15 : +angle - 15
   updateBG()
   btn.removeEventListener('click', e => updateDeg(less, str))
 }
@@ -52,7 +52,7 @@ function displayColor (hex, cor, n) {
   cor.removeEventListener('input', e => displayColor(e.target.value, cor))
 }
 
-// transforma o codigo da cor de hexadecimal para rgb 
+// transforma o codigo da cor de hexadecimal para rgb
 function toRGB (hex) {
   const R = parseInt(hex[1] + hex[2], 16)
   const G = parseInt(hex[3] + hex[4], 16)
