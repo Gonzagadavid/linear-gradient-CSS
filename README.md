@@ -30,6 +30,6 @@
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-6.png?raw=true">
 
 7. agora é só colar em seu CSS
-<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/instr-7.png?raw=true">
+<img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-7.png?raw=true">
 
 ## Se você usou e gostou, por favor não se esqueça de deixar uma :star: de motivação, obrigado!!! 
