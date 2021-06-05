@@ -39,7 +39,7 @@ function updateDeg (btn, str) {
 
 // atualiza o valor do anglo quando alterado diretamente
 function updateAngle (value) {
-  angle = value
+  angle = +value
   updateBG()
   deg.removeEventListener('input', e => updateAngle(e.target.value))
 }
@@ -62,7 +62,7 @@ function toRGB (hex) {
 
 // atualiza a cor e o anglo de fundo conforme a escolha do usuario
 function updateBG () {
-  deg.value = angle
+  deg.value = +angle
   code.value = `linear-gradient(${angle}deg, ${cor1}, ${cor2})`
   background.style.background = `linear-gradient(${angle}deg, ${cor1}, ${cor2})`
 }
