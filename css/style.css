@@ -1,9 +1,10 @@
 body {
   margin: 0%;
+  height: 100vh;
 }
 #background{
   width: 100vw;
-  height: 100vh;
+  height: 100%;
 }
 
 #paleta {
@@ -30,6 +31,7 @@ body {
   border: none;
   font-size: 16px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
 }
 
 #deg{
@@ -41,6 +43,10 @@ body {
   width: 500px;
   text-align: center;
   letter-spacing: 0.2mm;
+}
+
+.fa-copy {
+  font-size: 25px;
 }
 
 .message {
@@ -65,4 +71,23 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   animation-delay: .5s;
   animation-duration: 1s;
+}
+
+.foot {
+  background-color: rgb(00,00,00);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  opacity: 70%;
+  height: 8%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.foot i {
+  color: white;
+  margin-right: 20px;
+  font-size: 30px;
 }
