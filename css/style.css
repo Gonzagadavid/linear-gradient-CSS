@@ -84,9 +84,10 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
+  color: white;
 }
 
-.foot i, .foot p {
+.foot i {
   color: white;
   margin-right: 20px;
   font-size: 30px;
