@@ -15,9 +15,9 @@
 
 ## Intruções de uso:
 
-1. Clone o repositorio em sua máquina :octocat: :octocat:
-2. A abra o arquivo index.html no browser
-3. escolha a primeira cor
+1. Acesse a <a href="https://gonzagadavid.github.io/linear-gradient-CSS/" target="_blank" >Página do Projeto</a>
+2. ou se preferir clone o repositorio em sua máquina :octocat: :octocat: e abra o arquivo index.html no browser;
+4. escolha a primeira cor
 <img src="https://github.com/Gonzagadavid/linear-gradient-CSS/blob/main/images/inst-3.png?raw=true">
 
 4. escolha a segunda cor
